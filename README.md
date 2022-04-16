@@ -1,4 +1,4 @@
-# Repositório do Desafio de Projeto sobrre Git/GitHub da DIO :rocket:
+# Repositório do Desafio de Projeto sobre Git/GitHub da DIO :rocket:
 Repositório criado para Desafio de Projeto
 
 ## Links Úteis
